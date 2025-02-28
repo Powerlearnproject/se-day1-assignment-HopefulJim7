@@ -14,7 +14,7 @@ The importance of software engineering in the technology industry cannot be over
 Identify and describe at least three key milestones in the evolution of software engineering.
 Here are three key milestones in the evolution of software engineering:
 
-1. **The Birth of Structured Programming (1960s-1970s)**: It introduced the concept of breaking down a program into smaller, manageable modules or functions, therefore making a code easier to understand, debug, and maintain. This milestone laid the foundation for modern programming languages and practices, emphasizing the importance of clear, logical structure in software development.
+1. **The Birth of Structured Programming (1960s-1970s)**: It introduced the concept of breaking down a program into smaller, manageable modules or functions, therefore making a code easier to understand, debug, and maintain. This milestone laid the foundation for modern programming languages and practices, emphasizing the importance of ]clear, logical structure in software development.
 
 2. **The Advent of Object-Oriented Programming (1980s)**: Object-oriented programming (OOP) revolutionized software engineering by introducing the concept of "objects" – encapsulated data and behavior. OOP principles like inheritance, polymorphism, and encapsulation improved code reusability, scalability, and maintainability. OOP principles have became fundamental to many programming languages like C++, Java, Python, among many others significantly improving software modularity and maintainability.
 
